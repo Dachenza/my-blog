@@ -2,9 +2,9 @@
 home: true
 bgImage: '/banner.jpg'
 bgImageStyle: {
-  height: '450px'
+  height: '650px'
 }
-faceImage: '/head.png'
+faceImage: '/link-icon.jpg'
 heroImage: /hero_write.png
 heroImageStyle: {
   maxHeight: '200px',
@@ -13,7 +13,7 @@ heroImageStyle: {
   borderRadius: '50%',
   boxShadow: '0 5px 18px rgba(0,0,0,0.2)'
 }
-isShowTitleInHome: false
+isShowTitleInHome: true
 actionText: About Me
 actionLink: /views/personalInfo/
 features:
@@ -23,5 +23,6 @@ features:
   details: In a city? On earth? Or in a small part of space?
 - title: What am I gona do？
   details: Work? Struggle? Or go to a destination I don't know?
-# footer: 'reco_luan'
+footer: 'dachenza'
+
 ---

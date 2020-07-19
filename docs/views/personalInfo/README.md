@@ -22,8 +22,8 @@ sidebar: false
 2. [reco-fetch](https://www.npmjs.com/package/reco-fetch)<br>
    针对fetch的应用型封装
 
-个人博客：[**午后南杂**](http://recoluan.gitlab.io) 
+个人博客：[**大陈子的主页**](http://blog.dczwwai.cn) 
 
 ***
 
-### 如果有话对我讲，那就请[联系我](https://mp.weixin.qq.com/s/mXFqeUTegdvPliXknAAG_A)
+### 如果有话对我讲，那就请[联系我QQ:1379940381](http://blog.dczwwai.cn)
